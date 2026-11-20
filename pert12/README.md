@@ -184,7 +184,7 @@ Screenshot:
 
 - After:
 
-![Output Sesudah](IMAGES/AFTER/BRP.png)
+![Output Sesudah](IMAGES/AFTER/DRP.png)
 
 Interface BookRepository digunakan untuk menerapkan Repository Pattern, yaitu memisahkan pengelolaan penyimpanan data buku dari logika bisnis program. Interface ini menyediakan beberapa method, yaitu simpan() untuk menyimpan buku, cariByIsbn() untuk mencari buku berdasarkan ISBN, cariSemua() untuk menampilkan seluruh data buku, dan kurangiStok() untuk mengurangi stok buku. Dengan adanya interface ini, pengelolaan data menjadi lebih terstruktur dan mudah dikembangkan.
 
